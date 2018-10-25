@@ -1,5 +1,4 @@
 <?php
 
-    echo"Teste";
-    //teste
+    echo "Teste";
 
